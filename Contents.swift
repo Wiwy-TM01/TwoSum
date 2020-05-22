@@ -28,3 +28,5 @@ func twoSumProblem(_ nums: [Int], target: Int) -> [Int]? {
 }
 
 twoSumProblem(practiceArray, target: target)
+
+// [4, 10]
